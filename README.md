@@ -25,16 +25,16 @@ Welcome to the Hackerrank Problem Solving Certified Solutions repository! This r
 
 ## Certificates
 
-<table>
+<table style="border-collapse: collapse; width: 100%; text-align: center;">
     <tr>
-        <td align="center">
+        <td style="border: none;">
             <strong>Problem Solving Basic Certificate</strong>
             <br>
             <a href="https://www.hackerrank.com/Pavith19">
                 <img src="https://github.com/Pavith19/Hackerrank-Problem-Solving-Certified-Solutions/blob/main/Badge/problem_solving_basic_skill.jpg" width="150" alt="Problem Solving Basic Certificate">
             </a>
         </td>
-        <td align="center">
+        <td style="border: none;">
             <strong>Problem Solving Intermediate Certificate</strong>
             <br>
             <a href="https://www.hackerrank.com/Pavith19">
@@ -43,6 +43,7 @@ Welcome to the Hackerrank Problem Solving Certified Solutions repository! This r
         </td>
     </tr>
 </table>
+
 
 
 ## Problem-Solving Basic
