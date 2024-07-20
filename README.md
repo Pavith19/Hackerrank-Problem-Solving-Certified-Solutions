@@ -23,9 +23,13 @@ Welcome to the Hackerrank Problem Solving Certified Solutions repository! This r
 
 [View Profile](https://www.hackerrank.com/Pavith19)
 
-## Hackerrank Problem Solving Certificates
+## Certificates
 
+### Problem Solving Basic Certificate
+<a href="https://www.hackerrank.com/certificates/12345678"><img src="https://github.com/Pavith19/Hackerrank-Problem-Solving-Certified-Solutions/blob/main/Badge/problem_solving_basic_skill.jpg" width="300"></a>
 
+### Problem Solving Intermediate Certificate
+<a href="https://www.hackerrank.com/certificates/87654321"><img src="https://github.com/Pavith19/Hackerrank-Problem-Solving-Certified-Solutions/blob/main/Badge/problem_solving_inter_skill.jpg" width="300"></a>
 
 ## Problem-Solving Basic
 
