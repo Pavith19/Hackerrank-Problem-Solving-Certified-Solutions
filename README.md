@@ -15,9 +15,6 @@
     <br>
 </p>
 
-## Hackerrank Problem Solving Certificates
-
-
 ## Description
 
 Welcome to the Hackerrank Problem Solving Certified Solutions repository! This repository contains solutions for Hackerrank's Problem Solving certifications, including both Basic and Intermediate levels.
@@ -25,6 +22,10 @@ Welcome to the Hackerrank Problem Solving Certified Solutions repository! This r
 ## Personal HackerRank Profile
 
 [View Profile](https://www.hackerrank.com/Pavith19)
+
+## Hackerrank Problem Solving Certificates
+
+
 
 ## Problem-Solving Basic
 
