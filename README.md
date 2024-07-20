@@ -13,6 +13,10 @@
 
 Welcome to the Hackerrank Problem Solving Certified Solutions repository! This repository contains solutions for Hackerrank's Problem Solving certifications, including both Basic and Intermediate levels.
 
+## Personal HackerRank Profile
+
+[View Profile](https://www.hackerrank.com/Pavith19)
+
 ## Problem-Solving Basic
 
 | No. | Question                                  | Solution                                          |
