@@ -8,7 +8,7 @@
 
 <p align="center">  
 	<br>
-	<a href="https://www.hackerrank.com/Pavith19">
+	<a href="https://www.hackerrank.com/profile/Pavith_DB">
         <img height=100 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
     </a>
     <br>
@@ -21,7 +21,7 @@ Welcome to the Hackerrank Problem Solving Certified Solutions repository! This r
 
 ## Personal HackerRank Profile
 
-[View Profile](https://www.hackerrank.com/Pavith19)
+[View Profile](https://www.hackerrank.com/profile/Pavith_DB)
 
 ## Certificates
 
@@ -30,14 +30,14 @@ Welcome to the Hackerrank Problem Solving Certified Solutions repository! This r
         <td align="center">
             <strong>Problem Solving Basic Certificate</strong>
             <br>
-            <a href="https://www.hackerrank.com/Pavith19">
+            <a href="https://www.hackerrank.com/profile/Pavith_DB">
                 <img src="https://github.com/Pavith19/Hackerrank-Problem-Solving-Certified-Solutions/blob/main/Badge/problem_solving_basic_skill.jpg" width="150" alt="Problem Solving Basic Certificate">
             </a>
         </td>
         <td align="center">
             <strong>Problem Solving Intermediate Certificate</strong>
             <br>
-            <a href="https://www.hackerrank.com/Pavith19">
+            <a href="https://www.hackerrank.com/profile/Pavith_DB">
                 <img src="https://github.com/Pavith19/Hackerrank-Problem-Solving-Certified-Solutions/blob/main/Badge/problem_solving_inter_skill.jpg" width="150" alt="Problem Solving Intermediate Certificate">
             </a>
         </td>
