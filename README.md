@@ -1,6 +1,17 @@
-# Hackerrank-Problem-Solving-Certified-Solutions
+# Hackerrank Problem Solving Certified Solutions
 
-This repository contains solutions for Hackerrank's Problem Solving certifications, including both Basic and Intermediate levels. Each solution includes code implementations and explanations to help you understand key problem-solving techniques and concepts.
+<p align="center">  
+	<br>
+	<a href="https://www.hackerrank.com/Pavith19">
+        <img height=100 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
+    </a>
+    <br>
+    <br>
+</p>
+
+## Description
+
+Welcome to the Hackerrank Problem Solving Certified Solutions repository! This repository contains solutions for Hackerrank's Problem Solving certifications, including both Basic and Intermediate levels.
 
 ## Problem-Solving Basic
 
