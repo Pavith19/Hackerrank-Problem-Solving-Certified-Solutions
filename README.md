@@ -1,3 +1,9 @@
+[![GitHub Written in](https://img.shields.io/badge/Written%20in-Python-blue)](https://shields.io/)&nbsp;&nbsp;&nbsp;
+[![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/Hackerrank-Problem-Solving-Certified-Solutions)](https://github.com/Pavith19/Hackerrank-Problem-Solving-Certified-Solutions/commits/main)&nbsp;&nbsp;&nbsp;
+[![GitHub repo size](https://img.shields.io/github/repo-size/Pavith19/Hackerrank-Problem-Solving-Certified-Solutions)](https://github.com/Pavith19/Hackerrank-Problem-Solving-Certified-Solutions/archive/main.zip)&nbsp;&nbsp;&nbsp;
+![ViewCount](https://views.whatilearened.today/views/github/Pavith19/Hackerrank-Problem-Solving-Certified-Solutions.svg?cache=remove)
+
+
 # Hackerrank Problem Solving Certified Solutions
 
 <p align="center">  
