@@ -1,3 +1,8 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
+
 #!/bin/python3
 
 import math
@@ -7,16 +12,14 @@ import re
 import sys
 
 
-
-#
 # Complete the 'maxCost' function below.
-#
+
 # The function is expected to return an INTEGER.
 # The function accepts following parameters:
 #  1. INTEGER_ARRAY cost
 #  2. STRING_ARRAY labels
 #  3. INTEGER dailyCount
-#
+
 
 def maxCost(cost, labels, dailyCount):
     ans = 0
