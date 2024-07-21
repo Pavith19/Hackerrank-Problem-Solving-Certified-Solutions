@@ -1,3 +1,8 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
+
 #!/bin/python3
 
 import math
@@ -6,13 +11,9 @@ import random
 import re
 import sys
 
-
-#
 # Complete the 'longestSubarray' function below.
-#
 # The function is expected to return an INTEGER.
 # The function accepts INTEGER_ARRAY arr as parameter.
-#
 
 def longestSubarray(arr):
     n = len(arr)
