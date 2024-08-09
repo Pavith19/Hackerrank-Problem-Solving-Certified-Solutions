@@ -7,7 +7,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/Hackerrank-Problem-Solving-Certified-Solutions)](https://github.com/Pavith19/Hackerrank-Problem-Solving-Certified-Solutions/commits/main)&nbsp;&nbsp;&nbsp;
 [![GitHub repo size](https://img.shields.io/github/repo-size/Pavith19/Hackerrank-Problem-Solving-Certified-Solutions)](https://github.com/Pavith19/Hackerrank-Problem-Solving-Certified-Solutions/archive/main.zip)&nbsp;&nbsp;&nbsp;
 ![ViewCount](https://views.whatilearened.today/views/github/Pavith19/Hackerrank-Problem-Solving-Certified-Solutions.svg?cache=remove)&nbsp;&nbsp;&nbsp;
-[!["Buy Me A Coffee"](https://img.shields.io/badge/-Buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://buymeacoffee.com/pavith_db)
+[!["Buy Me A Coffee"](https://img.shields.io/badge/-Buy_Me_a%C2%A0Coffee-gray?logo=buy-me-a-coffee)](https://buymeacoffee.com/pavith_db)
 
 
 # Hackerrank Problem Solving Certified Solutions
